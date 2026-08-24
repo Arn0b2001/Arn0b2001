@@ -38,7 +38,6 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 | 👨‍🏫 **Teaching** | Python, OS, and DBMS at NPI University |
 | 🎓 **Mentoring** | Former TA @ BRAC University (~400 students supported) |
 | 🏆 **Highlight** | Harvard Aspire Youth Program Alumnus (2023) |
-| 📫 **Contact** | aarnob623@gmail.com · arn0b2001.github.io |
 
 <br>
 
@@ -92,9 +91,9 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 | Degree | Institution | Duration | Achievement |
 |--------|-------------|----------|-------------|
-| B.Sc. Computer Science | BRAC University | 2020 – 2025 | Merit Scholarship, High Distinction, Dean's & VC's List |
-| HSC | Govt. Debendra College, Manikganj | 2016 – 2018 | — |
-| SSC | Manikganj Govt. High School | 2014 – 2016 | — |
+| B.Sc. Computer Science | BRAC University | 2021 – 2025 |
+| HSC | Govt. Debendra College, Manikganj | 2018 – 2020 |
+| SSC | Manikganj Govt. High School | 2016 – 2018 | 
 
 <br>
 
@@ -127,12 +126,10 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 ## 🏆 Achievements
 
-| Achievement | Year |
-|-------------|------|
-| 🌍 Aspire Youth Program — Harvard University | 2023 |
-| 🎓 Merit-Based Scholarship — BRAC University | — |
-| ⭐ High Distinction — BRAC University | — |
-| 📜 Dean's List & VC's List — BRAC University | — |
+ 🌍 Aspire Youth Program — Harvard University 
+ 🎓 Merit-Based Scholarship — BRAC University 
+ ⭐ High Distinction — BRAC University  
+ 📜 Dean's List & VC's List — BRAC University 
 
 **DataCamp Certifications:** Machine Learning with Tree-Based Models · Feature Engineering · Cleaning Data in Python
 
@@ -168,7 +165,7 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 <br><br>
 
-📍 Manikganj, Bangladesh
+📍 **Manikganj, Bangladesh**
 
 </div>
 
