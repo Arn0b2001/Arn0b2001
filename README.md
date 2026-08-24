@@ -89,8 +89,8 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 ## 📚 Education
 
-| Degree | Institution | Duration | Achievement |
-|--------|-------------|----------|-------------|
+| Degree | Institution | Duration |
+|--------|-------------|----------|
 | B.Sc. Computer Science | BRAC University | 2021 – 2025 |
 | HSC | Govt. Debendra College, Manikganj | 2018 – 2020 |
 | SSC | Manikganj Govt. High School | 2016 – 2018 | 
