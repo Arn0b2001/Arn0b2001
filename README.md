@@ -101,12 +101,12 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 <br>
 
-## 💼 Experience
+## 💼 Work Experience
 
-**👨‍🏫 Lecturer — National Polytechnic Institute (NPI)**
+**👨‍🏫 Lecturer — National Polytechnic Institute (NPI) University**
 *Jan 2026 – Present | Manikganj, Bangladesh*
 
-- Teaching Python, Operating Systems, and DBMS to diploma students
+- Teaching Programming Language I,OOP, Operating Systems, and DBMS.
 - Designing hands-on labs that turn debugging into a skill, not a nightmare
 - Providing 1-on-1 support: turning *"why isn't this working"* into *"oh, now I get it"*
 
