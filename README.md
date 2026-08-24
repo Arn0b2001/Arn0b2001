@@ -139,18 +139,13 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 <br>
 
-## 📊 GitHub Stats
-
+📊 GitHub Activity
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=Arn0b2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" width="75%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arn0b2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9" height="170px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arn0b2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" height="170px" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Arn0b2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" width="70%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arn0b2001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=0078D4&point=00D4AA" width="95%" />
 </div>
-
 <br>
 
 ---
@@ -161,7 +156,7 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mdfaizulislamansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Arn0b2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:aarnob623@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://arn0b2001.github.io"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mdfaizulislamansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:aarnob623@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://arn0b2001.github.io"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 <br><br>
 
