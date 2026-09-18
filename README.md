@@ -17,15 +17,9 @@
 
 ## 🎯 About Me
 
-<div align="center">
-
-> *"I don't just train models — I teach them to explain themselves."*
-
-</div>
-
 <br>
 
-I am a **Lecturer at NPI University** and a **Computer Science Researcher** passionate about building intelligent, explainable, and reliable AI systems. My work sits at the intersection of **Machine Learning**, **Natural Language Processing**, and **Software Engineering**, where I explore how AI can understand complex data, reason over information, and produce useful, trustworthy insights.
+I am a **Lecturer at NPI University** and a **Computer Science Researcher** passionate about building intelligent, explainable, and reliable AI systems. My work sits at the intersection of **Machine Learning**, **Natural Language Processing**, and **Trustworthy & Human-Centered AI**, where I explore how AI can understand complex data, reason over information, and produce useful, trustworthy insights.
 
 <br>
 
@@ -42,24 +36,6 @@ I am a **Lecturer at NPI University** and a **Computer Science Researcher** pass
 <br>
 
 > 🎲 **Fun Fact:** I once debugged a neural network at 3 AM only to realize the "bug" was a missing comma. Now I teach my students to check syntax *before* questioning the universe.
-
-<br>
-
----
-
-<br>
-
-## 🔬 Research Interests
-
-<div align="center">
-
-**Software Analytics** → **Recommender Systems** → **Explainable AI**
-
-**Machine Learning** → **Deep Representation** → **NLP & Graph Viz**
-
-*Building intelligent systems that humans can actually trust.*
-
-</div>
 
 <br>
 
